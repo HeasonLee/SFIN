@@ -1,5 +1,9 @@
 # SFIN
-Code and data of CVPR 2025 paper "Noise Calibration and Spatial-Frequency Interactive Network for STEM Image Enhancement"
+Code and data of CVPR 2025 paper "Noise Calibration and Spatial-Frequency Interactive Network for STEM Image Enhancement". [Paper PDF](https://arxiv.org/pdf/2504.02555) 
+
+<p align="center">
+  <img width="900" src="git.png">
+</p>
 
 # How to Use
 1. Down checkpoints [here](https://pan.baidu.com/s/1mOMZGUwRHxZpbYvrtYb30g?pwd=dgf5). Files with `_bf` are for BF mode and others are for HAADF mode.
